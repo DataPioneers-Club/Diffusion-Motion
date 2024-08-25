@@ -29,17 +29,10 @@ The project leverages the following technologies and tools:
 ## Results 
 - **Prompt-1**:"blueberry spaghetti","strawberry spaghetti".
 
-
-
-https://github.com/user-attachments/assets/f27eed6d-aee4-4d45-a9df-5bb94dc4dafa
-
-
 - **Prompt-2**:"ultrarealistic steam punk neural network machine in the shape of a brain, placed on a pedestal, covered with neurons made of gears.","dramatic lighting"
 
-https://github.com/user-attachments/assets/6348369f-a936-4237-bfdf-1beefceecd66
 - **Prompt-3**:"ultrarealistic steam punk neural network machine in the shape of a brain, placed on a pedestal, covered with neurons made of gears.", "A meticulously detailed steampunk-style brain-shaped neural network device, set upon a pedestal and featuring neurons constructed from intricately designed gears."
 
-https://github.com/user-attachments/assets/4c5370ed-5284-4474-9181-f48f6c4c5a47
 ## Credits 
 - The code gist was inspired by Andrej karpathy [gist](https://gist.github.com/karpathy/00103b0037c5aaea32fe1da1af553355).
 - This code have been updated because there were some parts not working and used different diffusion model **stabilityai/stable-diffusion-2-1-base**.The original gist have different diffusion model.This code was edited and run by [Akarshan Gupta](https://github.com/AkarshanGupta/AkarshanGupta).
