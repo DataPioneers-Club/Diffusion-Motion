@@ -28,8 +28,13 @@ The project leverages the following technologies and tools:
 - **NumPy and Matplotlib**: These libraries assist in handling image data and visualizing intermediate results during the image generation process.
 ## Results 
 - **Prompt-1**:"blueberry spaghetti","strawberry spaghetti".
+ https://github.com/user-attachments/assets/600d9f4a-e4ce-4fbe-b1dd-7dd2f5bce14d
 
 - **Prompt-2**:"ultrarealistic steam punk neural network machine in the shape of a brain, placed on a pedestal, covered with neurons made of gears.","dramatic lighting"
+
+
+https://github.com/user-attachments/assets/dd7d5ae9-ef57-4764-ade3-2778749c96bb
+
 
 - **Prompt-3**:"ultrarealistic steam punk neural network machine in the shape of a brain, placed on a pedestal, covered with neurons made of gears.", "A meticulously detailed steampunk-style brain-shaped neural network device, set upon a pedestal and featuring neurons constructed from intricately designed gears."
 
@@ -47,7 +52,7 @@ Enter the code from diffuser.py
 Folder will be created in the folder section of Collab.
 ```
 
-https://github.com/user-attachments/assets/600d9f4a-e4ce-4fbe-b1dd-7dd2f5bce14d
+
 
 
 
