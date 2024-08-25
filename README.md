@@ -1,5 +1,4 @@
 
-https://github.com/user-attachments/assets/7e33dace-0d9d-418a-affd-1c9747d61355
 # Diffusion Model Video Generation
 
 ## Introduction
@@ -31,9 +30,11 @@ The project leverages the following technologies and tools:
 ## Results 
 - **Prompt-1**:"blueberry spaghetti","strawberry spaghetti".
 
- 
 
-Uploading berry_good_spaghetti.mov…
+
+https://github.com/user-attachments/assets/eae9761a-4618-420c-a9be-e77b5222daae
+
+
 
 
 
