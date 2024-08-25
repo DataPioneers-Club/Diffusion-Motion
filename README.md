@@ -1,3 +1,5 @@
+
+https://github.com/user-attachments/assets/7e33dace-0d9d-418a-affd-1c9747d61355
 # Diffusion Model Video Generation
 
 ## Introduction
@@ -28,7 +30,12 @@ The project leverages the following technologies and tools:
 - **NumPy and Matplotlib**: These libraries assist in handling image data and visualizing intermediate results during the image generation process.
 ## Results 
 - **Prompt-1**:"blueberry spaghetti","strawberry spaghetti".
- https://github.com/user-attachments/assets/600d9f4a-e4ce-4fbe-b1dd-7dd2f5bce14d
+
+ 
+
+Uploading berry_good_spaghetti.mov…
+
+
 
 - **Prompt-2**:"ultrarealistic steam punk neural network machine in the shape of a brain, placed on a pedestal, covered with neurons made of gears.","dramatic lighting"
 
@@ -37,6 +44,12 @@ https://github.com/user-attachments/assets/dd7d5ae9-ef57-4764-ade3-2778749c96bb
 
 
 - **Prompt-3**:"ultrarealistic steam punk neural network machine in the shape of a brain, placed on a pedestal, covered with neurons made of gears.", "A meticulously detailed steampunk-style brain-shaped neural network device, set upon a pedestal and featuring neurons constructed from intricately designed gears."
+
+  
+
+https://github.com/user-attachments/assets/51a7188b-3be8-4995-8698-ae122ef047ae
+
+
 
 ## Credits 
 - The code gist was inspired by Andrej karpathy [gist](https://gist.github.com/karpathy/00103b0037c5aaea32fe1da1af553355).
