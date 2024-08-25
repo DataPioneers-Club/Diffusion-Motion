@@ -29,7 +29,11 @@ The project leverages the following technologies and tools:
 ## Results 
 - **Prompt-1**:"blueberry spaghetti","strawberry spaghetti".
 
-https://github.com/user-attachments/assets/a152dc5d-0787-43b5-9613-f037b0a9ed87
+
+
+https://github.com/user-attachments/assets/f27eed6d-aee4-4d45-a9df-5bb94dc4dafa
+
+
 - **Prompt-2**:"ultrarealistic steam punk neural network machine in the shape of a brain, placed on a pedestal, covered with neurons made of gears.","dramatic lighting"
 
 https://github.com/user-attachments/assets/6348369f-a936-4237-bfdf-1beefceecd66
