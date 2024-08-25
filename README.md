@@ -47,6 +47,8 @@ Enter the code from diffuser.py
 Folder will be created in the folder section of Collab.
 ```
 
+https://github.com/user-attachments/assets/e90b3715-936f-4ea6-8aae-245a4755ca08
+
 
 
 
